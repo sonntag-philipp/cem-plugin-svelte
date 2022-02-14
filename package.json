@@ -1,5 +1,5 @@
 {
-  "name": "cem-plugin-template",
+  "name": "cem-plugin-svelte",
   "version": "1.0.0",
   "description": "",
   "type": "module",
@@ -25,5 +25,8 @@
     "nodemon": "^2.0.7",
     "typescript": "^4.3.2",
     "uvu": "^0.5.1"
+  },
+  "dependencies": {
+    "jsdom": "^19.0.0"
   }
 }
